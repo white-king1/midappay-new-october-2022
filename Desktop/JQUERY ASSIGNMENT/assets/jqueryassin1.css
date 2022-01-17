@@ -1,0 +1,23 @@
+.bg{
+background-image: url(femalehands.jpg);
+background-position: center;
+/* background-size: auto 115%; */
+padding: 40px;
+text-align: left;
+}
+
+.outline-btn{
+    font-size: 15;
+    font-weight: 500;
+    border: 1px solid #2c1577;
+    height: 30px;
+    border-radius: 60px;
+}
+
+.outline-btn:hover{
+    color: greenyellow;
+}
+
+body{
+    background-color: black;
+}
